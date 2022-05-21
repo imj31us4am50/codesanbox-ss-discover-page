@@ -1,0 +1,51 @@
+.title {
+  width: fit-content;
+}
+
+.container-titledesc {
+}
+
+.description {
+  max-width: 900px;
+}
+
+svg {
+  fill: #ff9db0;
+}
+
+.more-content {
+  background: #ff9db0;
+  /* height: 200px; */
+}
+/* 
+description {
+  background-image: url("https://imj31us4am50.github.io/SpringStudy-media/pink-circles.png")
+    no-repeat;
+  background-size: cover;
+} */
+
+/*STYLES FOR THE SVG WAVES*/
+
+.custom-shape-divider-bottom-1652851253 {
+  /* position: absolute;
+  bottom: 0;
+  left: 0; */
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+  z-index: -2;
+  margin: 0;
+  padding: 0;
+}
+/* 
+.custom-shape-divider-bottom-1652851253 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 121px;
+} */
+
+.custom-shape-divider-bottom-1652851253 .shape-fill {
+  fill: #ff9db0;
+}

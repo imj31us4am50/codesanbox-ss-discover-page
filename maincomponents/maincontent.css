@@ -1,0 +1,8 @@
+.title-mc,
+.descriere-mc {
+  width: fit-content;
+}
+
+.main-content {
+  max-width: 900px;
+}
